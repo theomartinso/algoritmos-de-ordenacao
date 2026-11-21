@@ -24,7 +24,7 @@ Repita o mesmo comando para os outros arquivos, trocando o nome.
 ## Tecnologias
 
 - C++
-- Compilador g++ (GCC)
+- Compilador gcc 
 
 ## Autor
 
